@@ -1,0 +1,15 @@
+time is option drop down
+	7:30 to 8:30
+	8:30 to 9:30
+	recess
+	9:45 to 10:45
+	10:45 to 11:45
+	noon break
+	1:00 to 2:00
+	2:00 to 3:00
+	3:00 to 4:00
+	4:00 to 5:00
+Consolidation for attendance
+Daily, Monthly, anual
+
+Excuse

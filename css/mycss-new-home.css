@@ -1,0 +1,72 @@
+.div-parent{
+	background-color: #cceeff;
+	width:100%;
+	padding: 5px;
+	text-align:center;
+	float: left;
+}
+
+.input-one{
+	width:70%;
+	float:left;
+}
+.input-short{
+	width:200px;
+	float:left;
+}
+.text-label{
+float:left; display:inline-block; padding:5px;	
+}
+.div-label-block{
+	width:100%; float: left;
+}
+.div-divide-3{
+		width: 33%;
+		float: left;
+		padding-left:20px;
+}
+.div-divide{
+	width:50%; float: left; text-align:left; padding:5px;
+}
+.panel{
+	height: 100px; 
+	padding-left: 50px;
+	width: 100%;
+}
+.btn-home{
+	 border-radius: 25px;
+	 background: #73AD21;
+	 padding:10px;
+	 font-weight: bold;
+}
+.btn-home:hover{
+	 background: #CBC8C8;
+}
+@media (max-width: 600px) {
+	.div-divide{
+		width:100%;
+	}
+	.input-short{
+	width:100%;
+	}
+	.input-one{
+		width:100%;
+	}
+}
+
+@media (min-width: 768px) {
+  section.download .badges .badge-link {
+    display: inline-block;
+    margin-bottom: 0;
+  }
+}
+.table-class{
+	width: 100%;
+
+}
+.relative_display{
+
+	display:block;
+	position:relative;
+	background-color: blue;
+}

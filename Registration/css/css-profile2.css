@@ -1,0 +1,76 @@
+body{
+	background-color: #f6f5e8;
+}
+.profile-container{
+	padding:30px;
+	width: 100%;
+	display:flex;
+	flex-direction: row;
+}
+.sub-container {
+	background-color: white;
+	padding: 50px;
+	margin-right: 10px;
+	border-radius: 25px;
+	box-shadow: 0px 4px 3px 2px gray;
+}
+.sub-container > span{
+	display: block;
+	width: 100%;
+}
+.left-panel{
+	width: 25%;
+	//height: 600px;
+	text-align: center;
+}
+.right-panel{
+	width: 75%;
+}
+.left-panel > span:hover, .left-panel button:hover {
+	background-color: #f0f0e2;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.sub-container button{
+	border-bottom: 1px solid black;
+	background-color: rgb(0,0,0,0);
+	border: none;
+	border-bottom: : 1px solid black;
+}
+.right-panel h1{
+	text-align: center;
+}
+.header-profile{
+	border-bottom: 1px solid black;
+	text-align: right;
+}
+.left-panel img{
+	width: 150px;
+	position: relative;
+	top:150px;
+}
+.teacher_img{
+	margin: 10px;
+	text-align: center;
+}
+.teacher_img img{
+	width: 150px;
+	position: static;
+}
+.classlist{
+	width: 100%;
+	padding-top: : 50px;
+	float: left;
+}
+.classlist table{
+	border-collapse:collapse;
+	width: 400px;
+}
+.half{
+	width: 80%;
+	float: left;
+}
+.span_output{
+	margin: 5px;
+	font-weight: bold;
+}

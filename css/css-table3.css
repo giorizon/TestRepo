@@ -1,0 +1,18 @@
+/* Table for report page */
+
+.tableCSS{
+	background-color: white;
+	border-color: #9bebe5;
+	margin:auto;
+}
+
+.tableCSS td, th{
+	padding:5px;
+	
+}
+
+.tableCSS tr:nth-child(even) {
+	background-color: #f2f2f2;
+
+}
+/* Add a black background color to the top navigation */
